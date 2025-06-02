@@ -95,3 +95,14 @@ For questions or support, please contact the repository owner.
 ---
 
 **Note**: This project contains proprietary financial analysis tools. Please ensure compliance with your organization's data handling policies when using these scripts. 
+## 🧪 Running Tests
+
+This repository uses `pytest` for unit testing. After installing the dependencies, run the test suite with:
+
+```bash
+pytest
+```
+
+Tests are located in the `tests/` directory and cover utility functions used by the occupancy scripts.
+
+
