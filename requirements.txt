@@ -1,5 +1,5 @@
 # Core dependencies for AM Model Extraction
-pywin32>=306  # For Excel COM automation (Windows only)
+
 
 # Data processing and analysis
 pandas>=1.3.0
