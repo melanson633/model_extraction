@@ -12,3 +12,6 @@ xlsxwriter>=3.0.0  # For writing Excel files with formatting
 
 # Logging and utilities (built-in modules used: os, logging)
 # These are part of Python standard library, no additional packages needed 
+
+# Development
+pytest>=7.0
